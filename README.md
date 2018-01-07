@@ -1,2 +1,3 @@
 # media
-Media repository: stuff related to Signal K, to be used in for example promotion
+
+See the folders with logo, fonts, photos. And the style guide.
